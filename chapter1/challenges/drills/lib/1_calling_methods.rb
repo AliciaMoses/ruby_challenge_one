@@ -6,7 +6,7 @@
 # Use the Ruby Docs and Google liberally
 
 # String methods
-
+# Minor edit in file 
 # TASK: define a method that returns a string that is the same as a given string, but converted to upper-case characters.
 # EXAMPLE INPUT/OUTPUT:
 # when the string is 'hello world'
